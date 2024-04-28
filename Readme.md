@@ -6,8 +6,10 @@ So in this project i learn about react native and the native bundler (metro) als
 
 ## Page 1
 
-![Project 1 First Page Image](project1.1.jpg)
+![Project 1 First Page Image](./Project%201/images/project1.1.jpg)
 
 ## Page 2
 
-![Project 1 Second Page Image](project1.2.jpg)
+![Project 1 Second Page Image](./Project%201/images/project1.2.jpg)
+
+## Project 2 - Password Generator
