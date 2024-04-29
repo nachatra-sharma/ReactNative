@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import {
-  StatusBar,
   Text,
   View,
   StyleSheet,
@@ -65,7 +64,6 @@ const Password = () => {
 
   return (
     <ScrollView keyboardShouldPersistTaps='handled' style={styles.container}>
-      <StatusBar barStyle='light-content' />
       <SafeAreaView>
         <View>
           <Formik

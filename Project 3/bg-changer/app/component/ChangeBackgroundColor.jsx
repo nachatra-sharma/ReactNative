@@ -4,7 +4,6 @@ import { StyleSheet, TouchableOpacity, View, Text } from "react-native";
 const ChangeBackgroundColor = (props) => {
   const { onColorChange } = props;
   const [randomColor, setRandomColor] = useState("#0be881");
-  onColorChange(randomColor);
 
   function generateColor() {
     let color = "#";
@@ -13,6 +12,7 @@ const ChangeBackgroundColor = (props) => {
       color += hexCode[Math.floor(Math.random() * 16)];
     }
     setRandomColor(color);
+    onColorChange(color);
   }
 
   return (

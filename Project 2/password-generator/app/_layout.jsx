@@ -1,10 +1,11 @@
-import { SafeAreaView, StyleSheet, Text, View } from "react-native";
+import { StatusBar, SafeAreaView, StyleSheet, Text, View } from "react-native";
 import Password from "./components/Password";
 
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View>
+        <StatusBar barStyle='light-content' backgroundColor={"#2d3436"} />
         <Text style={styles.layoutHeading}>Password Generator Application</Text>
         <Password />
       </View>
