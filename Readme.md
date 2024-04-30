@@ -24,4 +24,14 @@ In this project i learn about how to use formik in react native and yup package 
 
 A simple background color changer application.
 
+## page
+
 ![background color changer app](./Project%203/image/backgroundColor.jpg)
+
+## Project 4 - Roll The Dice Application
+
+A simple roll the dice application.
+
+## page
+
+![roll the dice app](./Project%204/image/rollthedice.jpg)
