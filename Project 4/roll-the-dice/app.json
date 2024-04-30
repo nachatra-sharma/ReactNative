@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "roll-the-dice",
+    "slug": "roll-the-dice",
+    "scheme": "roll-the-dice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {},
+    "plugins": ["expo-router"]
+  }
+}
