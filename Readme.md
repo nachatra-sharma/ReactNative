@@ -35,3 +35,9 @@ A simple roll the dice application.
 ## page
 
 ![roll the dice app](./Project%204/image/rollthedice.jpg)
+
+## Project 5 - Currency Converter Application
+
+A simple currency converter application that convert indian rupees to the selected currency.
+
+![currency converter application](./Project%205/image/currency-converter-app.jpg)
